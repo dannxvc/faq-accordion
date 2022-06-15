@@ -1,0 +1,31 @@
+{
+  "name": "faq-accordion-dannxvc",
+  "version": "1.0.0",
+  "description": "faq accordion html css",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannxvc/faq-accordion.git"
+  },
+  "author": "Danna Vila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannxvc/faq-accordion/issues"
+  },
+  "homepage": "https://github.com/dannxvc/faq-accordion#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.7.1",
+    "css-minimizer-webpack-plugin": "^4.0.0",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.6.0",
+    "terser-webpack-plugin": "^5.3.3",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
