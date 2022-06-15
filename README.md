@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-with-html-and-css-1kkWtdcAvB)
+- Live Site URL: [dannvxc FAQ accordion](https://danna-vila-faq-accordion.pages.dev/)
 
 ## My process
 
