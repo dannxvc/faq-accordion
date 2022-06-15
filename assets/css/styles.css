@@ -75,7 +75,6 @@ hr{
     content: url(/assets/img/icon-arrow-down.svg);
     position: absolute;
     right: 0;
-    top: 0;
 }
 .accordion[open]>.question{
     font-weight: bold;
