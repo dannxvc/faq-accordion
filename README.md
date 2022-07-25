@@ -75,6 +75,7 @@ Users should be able to:
 
 ## Author
 
+- Portfolio - [@dannxvc](https://danna.pages.dev/)
 - Frontend Mentor - [@dannxvc](https://www.frontendmentor.io/profile/yourusername)
 - Instagram - [@dannxvc](https://www.twitter.com/yourusername)
 
